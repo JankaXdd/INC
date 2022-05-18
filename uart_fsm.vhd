@@ -1,5 +1,5 @@
 -- uart_fsm.vhd: UART controller - finite state machine
--- Author: Jana Veronika Moskvov· (xmoskv01)
+-- Author: Jana Veronika Moskvov√°
 --
 library ieee;
 use ieee.std_logic_1164.all;
